@@ -3,3 +3,18 @@ Social_Network_Ads.csv
 
 
 Dataset on Social media ads describing users, whether users have purchased a product by clicking on the advertisements shown to them.
+
+
+We collected data from trusted website.
+
+Data contains 5 columns.
+
+UserID - Each person has a unique ID from which we can identify the person uniquely.
+
+Gender - Person can male or female. This field is very important for our hypothesis.
+
+Age - Age of the person. Because our product can be useful to some ages only.
+
+EstimatedSalary - This column contains salary of a person as salary can affect the shopping of a person.
+
+Purchased - Contains two numbers ‘0’ or ‘1’. ‘0’ means not purchased and ‘1’ means purchased.This variable is our dependent variable.
